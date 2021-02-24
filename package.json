@@ -1,6 +1,6 @@
 {
   "name": "@kierajs/react-native-http",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "http module compatibility for react-native",
   "main": "index.js",
   "directories": {
